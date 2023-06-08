@@ -1,0 +1,12 @@
+.unorderedList {
+    background-image: linear-gradient(rgb(162, 162, 162), rgb(49, 199, 174));
+}
+
+.listItems {
+    font-size: larger;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    list-style-position: inside;
+    text-align:justify;
+    position: relative;
+    left: 39%;
+}
