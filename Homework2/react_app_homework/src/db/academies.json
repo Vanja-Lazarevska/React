@@ -1,0 +1,27 @@
+[
+    {
+        "id": "1",
+        "name": "Academy for digital marketing",
+        "description": "Gain an in-depth understanding of the various digital marketing disciplines: search engine optimization (SEO), social media marketing, pay-per-click and bunch of other tehnologies and disciplines"
+    },
+    {
+        "id": "2",
+        "name": "Academy for software engineering",
+        "description": "Everything, absolutely every thing today, is run by software in some way. Clothing design, music, file sharing, medical discovery...this is our new world. At our academy you can write your own software that changes lives."
+    },
+    {
+        "id": "3",
+        "name": "Chess Academy",
+        "description": "Learn how to play chess from beginner to expert with the right system of thinking"
+    },
+    {
+        "id": "4",
+        "name": "Academy for robotics",
+        "description": "This program focuses on the engineering methods and technologies essential for developing autonomous mobile systems, such as robots, that can operate independently without constant human supervision. The program emphasizes the application of these methods and technologies in the fields of robotics and automation, including industries such as automotive and transportation, communication technologies, marine technology, and logistics."
+    },
+    {
+        "id": "5",
+        "name": "Academy for visual arts",
+        "description": "Academy for visual arts is a unique academy for the study of visual arts, which provides a contemporary, interdisciplinary program with an international dimension"
+    }
+]
